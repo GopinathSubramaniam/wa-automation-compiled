@@ -1,22 +1,22 @@
 # wa-automation-compiled
 
 
-#### Pandas
+### Install Dependencies
 
-pip install django==5.0.7
-pip install djangorestframework
-pip install django-cors-headers
-pip install django-import-export
-pip install pandas
-pip install django-crispy-forms
-pip install mysqlclient
-pip install selenium
-pip install webdriver-manager
-pip install openpyxl
-pip install psutil
-pip install django-background-tasks
+###### pip install django==5.0.7
+###### pip install djangorestframework
+###### pip install django-cors-headers
+###### pip install django-import-export
+###### pip install pandas
+###### pip install django-crispy-forms
+###### pip install mysqlclient
+###### pip install selenium
+###### pip install webdriver-manager
+###### pip install openpyxl
+###### pip install psutil
+###### pip install django-background-tasks
 
-##### Instructions
+### Instructions
 
 1. Create virtual environment
 2. Install dependencies
